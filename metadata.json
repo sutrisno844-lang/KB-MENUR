@@ -1,0 +1,6 @@
+{
+  "name": "e-Observasi KB Menur",
+  "description": "Aplikasi pencatatan observasi harian dan pembuatan laporan perkembangan anak otomatis bertenaga AI untuk KB Menur Jatikuwung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
